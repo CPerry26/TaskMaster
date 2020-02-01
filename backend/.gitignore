@@ -1,1 +1,9 @@
+# Build output
 /target/
+
+# Java
+.classpath
+
+# Eclipse
+.settings/
+.project
